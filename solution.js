@@ -26,7 +26,7 @@ const mapping = (n) => {
 function convertNumToString (num) {
     let output = ""
     if (num < 0) {
-        output += "am "
+        output += "âm "
         num = -num
     }
 
